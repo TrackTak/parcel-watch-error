@@ -1,0 +1,12 @@
+{
+  "name": "parcel2-class-constructor-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
